@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://godfrepz.github.io/sitemap/sitemap.txt
